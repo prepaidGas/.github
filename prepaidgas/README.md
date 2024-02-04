@@ -1,3 +1,0 @@
-# prepaidGas
-
-👋 hey
