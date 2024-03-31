@@ -2,4 +2,4 @@
 
 Here we're building EVM-based platform for prepaying transactions execution
 
-On top of the utility, Gas futures market will be created
+The utility allows us to create a Gas futures market then
